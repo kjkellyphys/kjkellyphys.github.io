@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a theoretical particle physicist, currently a postdoctoral research associate at [Fermilab](https://www.fnal.gov) in the [theory group](https://theory.fnal.gov). Two of the biggest outstanding mysteries in particle physics today are the origin of neutrino masses and the nature of dark matter in the universe. I work on the interface between these topics, focusing on how current and next-generation experiments can shed light on both. Over the next decade or two, we will start to have precise measurements of neutrino properties, with which we can test our current assumptions of them and find out if there is any more new physics in the neutrino sector. At the same time, these current/future experiments are very well-suited to search for light dark matter and any associated new particles that may also exist. By studying the capabilities of these experiments, not only can I determine how they can extract all possible information out of their data, but I can also determine whether there are connections between the two mysteries of neutrino mass and dark matter.
+I am a theoretical particle physicist, currently a postdoctoral research associate at [Fermilab](https://www.fnal.gov) in the [theory group](https://theory.fnal.gov). In the theory group, we explore all kinds of topics related to particle physics and cosmology, from the smallest scales to the largest.
 
-See the links above for more information, including my CV and publications.
+Two of the biggest outstanding mysteries in particle physics today are the origin of neutrino masses and the nature of dark matter in the universe. I work on the interface between these topics, focusing on how current and next-generation experiments can shed light on both. Over the next decade or two, we will start to have precise measurements of neutrino properties, with which we can test our current assumptions of them and find out if there is any more new physics in the neutrino sector. At the same time, these current/future experiments are very well-suited to search for light dark matter and any associated new particles that may also exist.
+
+By studying the capabilities of these experiments, not only can I determine how they can extract all possible information out of their data, but I can also determine whether there are connections between the two mysteries of neutrino mass and dark matter.
+
+See the links above for more information about me, including my CV and publications.
