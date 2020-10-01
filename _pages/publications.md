@@ -12,4 +12,4 @@ The vast majority of the time when neutrino physicists study neutrino oscillatio
 
 Recently, I teamed up with Sebastian Ellis and Shirley Li to ask the question "how well do we currently know that this mixing matrix is unitary?" along with "what will future data from the planned, upcoming neutrino experiments add to this picture?" The results of asking these questions are contained in [this paper](https://arxiv.org/abs/2008.01088). We found that current unitarity constraints are at the level of 30% and that next-generation experiments ([IceCube](https://icecube.wisc.edu/), [DUNE](https://www.dunescience.org/), [T2HK](https://www.hyperk.org/), and [JUNO](http://juno.ihep.cas.cn/)) will be able to improve these to the 10% level. If their combination finds any deviations from unitarity, it is a hint that our three-neutrino-mixing picture is incomplete and new physics is required!
 
-<img src="/images/Closures.png" alt="Current/future constraints on the closures of lepton mixing matrix unitarity triangles." width="400"/>
+<img src="/images/Closures.png" alt="Current/future constraints on the closures of lepton mixing matrix unitarity triangles." width="800"/>
