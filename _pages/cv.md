@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-For a PDF version of my curriculum vitae, visit [this link](https://kjkellyphys.github.io/files/KJK_CV.pdf).
+For a PDF version of my curriculum vitae, visit <a href="https://kjkellyphys.github.io/files/KJK_CV.pdf" target="_blank">this link</a>.
 
 Employment
 ======
