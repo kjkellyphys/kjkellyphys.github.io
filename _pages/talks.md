@@ -1,0 +1,1 @@
+Over the last several years, I've given a wide variety of seminars and conference talks in different contexts. I've also been fortunate enough to speak to groups of high-school students, undergraduate students, brewery patrons, and life-long learners in order to 
