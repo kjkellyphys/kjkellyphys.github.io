@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!--{% include base_path %}-->
+Curriculum Vitae
 
 Education
 ======
@@ -18,8 +19,7 @@ Education
 Employment
 ======
 * October 2018-Present: Postdoctoral Research Associate
-  * Fermilab
-  * Theoretical Physics Department
+  * Fermilab, Theoretical Physics Department
 
 Publications
 ======
