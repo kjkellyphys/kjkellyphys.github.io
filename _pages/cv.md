@@ -37,7 +37,7 @@ Community Service
 * KICP & Fermilab Lifelong Learning Institute Lectures
   * October 2019 -- Spoke to a broad group of community members about a variety of aspects of neutrinos.
 * Physics Opportunities at the Near DUNE Detector Hall (PONDD) 2018
-  * December 2018 -- Organized conference of 46 talks and 86 registered attendees. Talks all available <a href="https://zenodo.org/communities/pondd-2018/" target="_blank">here</a>[here].
+  * December 2018 -- Organized conference of 46 talks and 86 registered attendees. Talks all available <a href="https://zenodo.org/communities/pondd-2018/" target="_blank">here</a>.
 * Physics & Astronomy Graduate Student Council
   * Designed a structure for graduate student representation within the department of physics and astronomy at Northwestern University. Served as secretary (2016) and the head of the teaching assistant committee (2016-2017).
 * Society of Physics Students
@@ -56,7 +56,7 @@ Honors and Awards
 
 Publications
 ======
-  For an up-to-date list of publications (including DUNE collaboration papers), see my <a href="http://inspirehep.net/author/profile/K.J.Kelly.1" target="_blank">INSPIRE Profile</a>[INSPIRE Profile] or the PDF version of <a href="https://kjkellyphys.github.io/files/KJK_CV.pdf" target="_blank">my CV</a>.
+  For an up-to-date list of publications (including DUNE collaboration papers), see my <a href="http://inspirehep.net/author/profile/K.J.Kelly.1" target="_blank">INSPIRE Profile</a> or the PDF version of <a href="https://kjkellyphys.github.io/files/KJK_CV.pdf" target="_blank">my CV</a>.
   
   On the <a href="https://kjkellyphys.github.io/publications/" target="_blank">publications</a> tab, you can find short summaries of some of my recent papers.
   
