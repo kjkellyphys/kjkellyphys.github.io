@@ -9,6 +9,8 @@ redirect_from:
 
 <!--{% include base_path %}-->
 Curriculum Vitae
+=====
+For a PDF version of my CV, visit [this link](https://kjkellyphys.github.io/files/KJK_CV.pdf).
 
 Education
 ======
