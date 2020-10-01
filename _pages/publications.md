@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-A complete, up-to-date list of my publications is available on my [INSPIREHEP page](http://inspirehep.net/author/profile/K.J.Kelly.1) or can be found in the PDF version of [my CV](https://kjkellyphys.github.io/files/KJK_CV.pdf). Below are a few recent publications with some background information about the studies involved
+A complete, up-to-date list of my publications is available on my [INSPIREHEP page](http://inspirehep.net/author/profile/K.J.Kelly.1) or can be found in the PDF version of [my CV](https://kjkellyphys.github.io/files/KJK_CV.pdf). Below are a few recent publications with some background information about the studies involved.
 
 ## Current and Future Neutrino Oscillation Constraints on Leptonic Unitarity
 The vast majority of the time when neutrino physicists study neutrino oscillations, they make one key assumption, that the matrix that determines how neutrinos mix is [unitary](https://en.wikipedia.org/wiki/Unitary_matrix). This matrix is 3x3 and has complex entries, and unitarity places a constraints on the values that enter the matrix (the unitary 3x3 matrix is usually described as the [PMNS matrix](https://en.wikipedia.org/wiki/Pontecorvo%E2%80%93Maki%E2%80%93Nakagawa%E2%80%93Sakata_matrix) of neutrino oscillations).
