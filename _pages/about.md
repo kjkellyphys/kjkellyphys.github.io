@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a theoretical particle physicist, currently a postdoctoral research associate at [Fermilab](https://www.fnal.gov) in the [theory group](https://theory.fnal.gov). In the theory group, we explore all kinds of topics related to particle physics and cosmology, from the smallest scales to the largest.
+I am a theoretical particle physicist, currently a postdoctoral research associate at <a href="https://www.fnal.gov" target="_blank">Fermilab</a> in the <a href="https://theory.fnal.gov" target="_blank">theory group</a>. In the theory group, we explore all kinds of topics related to particle physics and cosmology, from the smallest scales to the largest.
 
 Two of the biggest outstanding mysteries in particle physics today are the origin of neutrino masses and the nature of dark matter in the universe. I work on the interface between these topics, focusing on how current and next-generation experiments can shed light on both. Over the next decade or two, we will start to have precise measurements of neutrino properties, with which we can test our current assumptions of them and find out if there is any more new physics in the neutrino sector. At the same time, these current/future experiments are very well-suited to search for light dark matter and any associated new particles that may also exist.
 
