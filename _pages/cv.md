@@ -28,14 +28,16 @@ Community Service
   * Early Career Convener: BSM with Neutrinos & Neutrino Theory topical groups
   * Co-organized mini-workshop on neutrino theory (Sept. 2020)
   * White-paper contribution on self-interacting neutrinos forthcoming.
-* [Neutrino University 2019](https://npc.fnal.gov/neutrino-university/)
+* <a href="https://npc.fnal.gov/neutrino-university/" target="_blank">Neutrino University 2019</a>
   * Organized a series of nine lectures designed to expose undergraduate students to the breadth of interesting topics in neutrino physics.
-* Fermilab [Saturday Morning Physics](https://saturdaymorningphysics.fnal.gov/)
+* Fermilab <a href="https://indico.fnal.gov/event/43521/" target="_blank">Undergraduate Lecture Series 2020</a>
+  * Spoke to students who were performing summer research projects through Fermilab on an introduction to particle physics.
+* Fermilab <a href="https://saturdaymorningphysics.fnal.gov/" target="_blank">Saturday Morning Physics</a>
   * Gave lectures on special relativity in the 2019-2020 sessions to local high-school students.
 * KICP & Fermilab Lifelong Learning Institute Lectures
   * October 2019 -- Spoke to a broad group of community members about a variety of aspects of neutrinos.
 * Physics Opportunities at the Near DUNE Detector Hall (PONDD) 2018
-  * December 2018 -- Organized conference of 46 talks and 86 registered attendees. Talks all available [here](https://saturdaymorningphysics.fnal.gov/).
+  * December 2018 -- Organized conference of 46 talks and 86 registered attendees. Talks all available <a href="https://zenodo.org/communities/pondd-2018/" target="_blank">here</a>[here].
 * Physics & Astronomy Graduate Student Council
   * Designed a structure for graduate student representation within the department of physics and astronomy at Northwestern University. Served as secretary (2016) and the head of the teaching assistant committee (2016-2017).
 * Society of Physics Students
@@ -54,10 +56,10 @@ Honors and Awards
 
 Publications
 ======
-  For an up-to-date list of publications (including DUNE collaboration papers), see my [INSPIRE Profile](http://inspirehep.net/author/profile/K.J.Kelly.1) or the PDF version of [my CV](https://kjkellyphys.github.io/files/KJK_CV.pdf).
+  For an up-to-date list of publications (including DUNE collaboration papers), see my <a href="http://inspirehep.net/author/profile/K.J.Kelly.1" target="_blank">INSPIRE Profile</a>[INSPIRE Profile] or the PDF version of <a href="https://kjkellyphys.github.io/files/KJK_CV.pdf" target="_blank">my CV</a>.
   
-  On the [publications](https://kjkellyphys.github.io/publications/) tab, you can find short summaries of some of my recent papers.
+  On the <a href="https://kjkellyphys.github.io/publications/" target="_blank">publications</a> tab, you can find short summaries of some of my recent papers.
   
 Talks
 ======
-  The PDF version of [my CV](https://kjkellyphys.github.io/files/KJK_CV.pdf) contains a full list of seminars given and conferences I have attended/spoken at. The [talks](https://kjkellyphys.github.io/talks/) section of this webpage has slides from several recent presentations, as well as some background information.
+  The PDF version of <a href="https://kjkellyphys.github.io/files/KJK_CV.pdf" target="_blank">my CV</a> contains a full list of seminars given and conferences I have attended/spoken at. The <a href="https://kjkellyphys.github.io/talks/" target="_blank">talks</a> section of this webpage has slides from several recent presentations, as well as some background information.
