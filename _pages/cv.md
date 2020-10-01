@@ -54,12 +54,10 @@ Honors and Awards
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  For an up-to-date list of publications (including DUNE collaboration papers), see my [INSPIRE Profile](http://inspirehep.net/author/profile/K.J.Kelly.1) or the PDF version of [my CV](https://kjkellyphys.github.io/files/KJK_CV.pdf).
+  
+  On the [publications](https://kjkellyphys.github.io/publications/) tab, you can find short summaries of some of my recent papers.
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  The PDF version of [my CV](https://kjkellyphys.github.io/files/KJK_CV.pdf) contains a full list of seminars given and conferences I have attended/spoken at. The [talks](https://kjkellyphys.github.io/talks/) section of this webpage has slides from several recent presentations, as well as some background information.
