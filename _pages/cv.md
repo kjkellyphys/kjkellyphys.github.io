@@ -12,7 +12,9 @@ For a PDF version of my curriculum vitae, visit <a href="https://kjkellyphys.git
 
 Employment
 ======
-* October 2018-Present: Postdoctoral Research Associate
+* October 2021 - Present: Fellow
+  * CERN, Theoretical Physics Department
+* October 2018 - September 2021: Postdoctoral Research Associate
   * Fermilab, Theoretical Physics Department
 
 Education
