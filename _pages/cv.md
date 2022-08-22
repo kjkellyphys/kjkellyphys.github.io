@@ -12,7 +12,9 @@ For a PDF version of my curriculum vitae, visit <a href="https://kjkellyphys.git
 
 Employment
 ======
-* October 2021 - Present: Fellow
+* August 2022 - Present: Assistant Professor
+  * Texas A&M University Department of Physics & Astronomy
+* October 2021 - July 2022: Senior Fellow
   * CERN, Theoretical Physics Department
 * October 2018 - September 2021: Postdoctoral Research Associate
   * Fermilab, Theoretical Physics Department
